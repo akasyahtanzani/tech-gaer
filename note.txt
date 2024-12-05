@@ -1,0 +1,18 @@
+class bootstrap :
+align-items-center = untuk tengah secara vertikal
+align-items-start = untuk ke atas secara vertikal
+align-items-end = untuk ke bawah secara vertikal 
+
+justify-content-center = horizontal tengah
+
+margin
+my = marjin vertikal (atas bawah)
+mx = marjin horizontal (kanan kiri)
+mt = marjin top (atas)
+mb = marjin botto (bawah)
+ms = margin start (kiri)
+me = margin end (kanan)
+
+
+cara pakai = my-1 my-2 my-3 my-4 my-5
+ukuran bootstrap 1-5,kalu mau lebih bisa custume di vanilla css
